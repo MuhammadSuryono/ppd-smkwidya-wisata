@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/u6560220/repositories/ppd-smkwidya-wisata/
-    - /bin/cp -R images DEPLOYPATH
